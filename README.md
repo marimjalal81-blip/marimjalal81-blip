@@ -21,8 +21,6 @@ I am a beginner Python developer 🐍 and a logo & visual identity designer 🎨
 
 💬   Ask me about logo design or beginner programming — happy to help!
 
-📫   Contact me: (add your links — LinkedIn / Twitter / portfolio / email)
-
 🧩   I aim to become professional in both coding and design
 
 <br>
